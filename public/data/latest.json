@@ -1,0 +1,595 @@
+{
+ "generated_at": "2026-07-19 20:51 ET",
+ "trade_date": "2026-07-17",
+ "universe_size": 100,
+ "top_volume": [
+  {
+   "ticker": "MU",
+   "name": "美光科技",
+   "price": 848.95,
+   "change_pct": -0.5,
+   "volume": 62973200,
+   "dollar_volume": 53461098908.71385,
+   "dollar_volume_prev": 39859798170.28663,
+   "vol_ratio": 1.2,
+   "rank": 1,
+   "is_new": false
+  },
+  {
+   "ticker": "NVDA",
+   "name": "英伟达",
+   "price": 202.81,
+   "change_pct": -2.21,
+   "volume": 144033900,
+   "dollar_volume": 29211514907.355637,
+   "dollar_volume_prev": 25507316389.35434,
+   "vol_ratio": 1.0,
+   "rank": 2,
+   "is_new": false
+  },
+  {
+   "ticker": "AAPL",
+   "name": "苹果",
+   "price": 333.74,
+   "change_pct": 0.14,
+   "volume": 63365300,
+   "dollar_volume": 21147534603.199825,
+   "dollar_volume_prev": 20985582770.94569,
+   "vol_ratio": 0.95,
+   "rank": 3,
+   "is_new": false
+  },
+  {
+   "ticker": "AMD",
+   "name": "超威半导体",
+   "price": 495.76,
+   "change_pct": -1.03,
+   "volume": 32069200,
+   "dollar_volume": 15898626905.174978,
+   "dollar_volume_prev": 13572318144.146559,
+   "vol_ratio": 1.1,
+   "rank": 4,
+   "is_new": false
+  },
+  {
+   "ticker": "META",
+   "name": "Meta",
+   "price": 646.01,
+   "change_pct": -2.79,
+   "volume": 22219700,
+   "dollar_volume": 14354148613.988703,
+   "dollar_volume_prev": 10510364292.479776,
+   "vol_ratio": 1.07,
+   "rank": 5,
+   "is_new": false
+  },
+  {
+   "ticker": "MSFT",
+   "name": "微软",
+   "price": 393.82,
+   "change_pct": -1.82,
+   "volume": 33010300,
+   "dollar_volume": 13000116587.774038,
+   "dollar_volume_prev": 14859712366.118805,
+   "vol_ratio": 0.7,
+   "rank": 6,
+   "is_new": false
+  },
+  {
+   "ticker": "INTC",
+   "name": "英特尔",
+   "price": 95.04,
+   "change_pct": -2.0,
+   "volume": 126401800,
+   "dollar_volume": 12013227187.720848,
+   "dollar_volume_prev": 10448906803.68214,
+   "vol_ratio": 1.09,
+   "rank": 7,
+   "is_new": false
+  },
+  {
+   "ticker": "TSLA",
+   "name": "特斯拉",
+   "price": 380.84,
+   "change_pct": -2.61,
+   "volume": 31317100,
+   "dollar_volume": 11926804249.313648,
+   "dollar_volume_prev": 11445974174.54242,
+   "vol_ratio": 0.74,
+   "rank": 8,
+   "is_new": false
+  },
+  {
+   "ticker": "AMZN",
+   "name": "亚马逊",
+   "price": 247.23,
+   "change_pct": -1.06,
+   "volume": 43511500,
+   "dollar_volume": 10757347959.097116,
+   "dollar_volume_prev": 11330937165.322206,
+   "vol_ratio": 0.71,
+   "rank": 9,
+   "is_new": false
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "谷歌A",
+   "price": 346.77,
+   "change_pct": -2.17,
+   "volume": 29929300,
+   "dollar_volume": 10378583032.187733,
+   "dollar_volume_prev": 14589041558.304733,
+   "vol_ratio": 0.85,
+   "rank": 10,
+   "is_new": false
+  },
+  {
+   "ticker": "NFLX",
+   "name": "奈飞",
+   "price": 68.95,
+   "change_pct": -7.26,
+   "volume": 141918400,
+   "dollar_volume": 9785273246.893427,
+   "dollar_volume_prev": 5762511501.734816,
+   "vol_ratio": 2.82,
+   "rank": 11,
+   "is_new": false
+  },
+  {
+   "ticker": "AVGO",
+   "name": "博通",
+   "price": 370.83,
+   "change_pct": -0.97,
+   "volume": 23236500,
+   "dollar_volume": 8616790982.98725,
+   "dollar_volume_prev": 8764826325.73169,
+   "vol_ratio": 0.86,
+   "rank": 12,
+   "is_new": false
+  },
+  {
+   "ticker": "TSM",
+   "name": "台积电",
+   "price": 398.37,
+   "change_pct": -2.77,
+   "volume": 20945600,
+   "dollar_volume": 8344098569.726825,
+   "dollar_volume_prev": 10198961018.92152,
+   "vol_ratio": 1.35,
+   "rank": 13,
+   "is_new": false
+  },
+  {
+   "ticker": "MRVL",
+   "name": "迈威尔科技",
+   "price": 188.68,
+   "change_pct": 0.2,
+   "volume": 29579300,
+   "dollar_volume": 5581022107.355291,
+   "dollar_volume_prev": 6570352006.486457,
+   "vol_ratio": 0.67,
+   "rank": 14,
+   "is_new": false
+  },
+  {
+   "ticker": "AMAT",
+   "name": "应用材料",
+   "price": 529.66,
+   "change_pct": -5.57,
+   "volume": 10298700,
+   "dollar_volume": 5454809165.423262,
+   "dollar_volume_prev": 4715233611.432042,
+   "vol_ratio": 0.83,
+   "rank": 15,
+   "is_new": false
+  },
+  {
+   "ticker": "ORCL",
+   "name": "甲骨文",
+   "price": 126.41,
+   "change_pct": 1.77,
+   "volume": 39851000,
+   "dollar_volume": 5037565055.938347,
+   "dollar_volume_prev": 6804335538.848086,
+   "vol_ratio": 1.03,
+   "rank": 16,
+   "is_new": false
+  },
+  {
+   "ticker": "UNH",
+   "name": "联合健康",
+   "price": 426.09,
+   "change_pct": 0.64,
+   "volume": 10711300,
+   "dollar_volume": 4563977777.774148,
+   "dollar_volume_prev": 5623290886.852861,
+   "vol_ratio": 1.67,
+   "rank": 17,
+   "is_new": false
+  },
+  {
+   "ticker": "PLTR",
+   "name": "Palantir",
+   "price": 132.38,
+   "change_pct": -1.53,
+   "volume": 31841300,
+   "dollar_volume": 4215151449.4746995,
+   "dollar_volume_prev": 3892212842.6817036,
+   "vol_ratio": 0.71,
+   "rank": 18,
+   "is_new": true
+  },
+  {
+   "ticker": "LRCX",
+   "name": "拉姆研究",
+   "price": 313.3,
+   "change_pct": -2.39,
+   "volume": 12797300,
+   "dollar_volume": 4009393933.783359,
+   "dollar_volume_prev": 3415431557.0711555,
+   "vol_ratio": 0.92,
+   "rank": 19,
+   "is_new": true
+  },
+  {
+   "ticker": "ASML",
+   "name": "阿斯麦",
+   "price": 1747.58,
+   "change_pct": -2.09,
+   "volume": 2207400,
+   "dollar_volume": 3857607994.995145,
+   "dollar_volume_prev": 4607463405.39554,
+   "vol_ratio": 0.99,
+   "rank": 20,
+   "is_new": false
+  }
+ ],
+ "new_entrants": [
+  {
+   "ticker": "PLTR",
+   "name": "Palantir",
+   "price": 132.38,
+   "change_pct": -1.53,
+   "volume": 31841300,
+   "dollar_volume": 4215151449.4746995,
+   "dollar_volume_prev": 3892212842.6817036,
+   "vol_ratio": 0.71,
+   "rank": 18,
+   "is_new": true,
+   "rsi": 75.1,
+   "week52_position": 25.1,
+   "ret_20d": 1.34,
+   "summary": "Palantir（PLTR）今日以 42 亿美元成交额新进榜单第 18 名，下跌 1.53%。成交量约为 20 日均量的 0.71 倍。技术面：股价站上20日均线，但仍在50日、200日均线下方；RSI 75.1，已进入超买区，短线追高风险较大；当前股价处于 52 周区间中部（52周位置 25%）。",
+   "news": [
+    {
+     "title": "If You'd Put $10,000 in Palantir at Its IPO, Here's What You'd Have Now -- Even After a 37% Drop",
+     "link": "https://www.fool.com/investing/2026/07/19/if-youd-put-10000-in-palantir-at-its-ipo-heres-wha/?.tsrc=rss",
+     "published": "07-19 15:13",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.)",
+     "link": "https://www.fool.com/investing/2026/07/19/tsmc-asml-strong-earnings-why-ai-stocks-falling/?.tsrc=rss",
+     "published": "07-19 04:00",
+     "publisher": "Yahoo Finance"
+    }
+   ]
+  },
+  {
+   "ticker": "LRCX",
+   "name": "拉姆研究",
+   "price": 313.3,
+   "change_pct": -2.39,
+   "volume": 12797300,
+   "dollar_volume": 4009393933.783359,
+   "dollar_volume_prev": 3415431557.0711555,
+   "vol_ratio": 0.92,
+   "rank": 19,
+   "is_new": true,
+   "rsi": 37.4,
+   "week52_position": 64.6,
+   "ret_20d": -16.27,
+   "summary": "拉姆研究（LRCX）今日以 40 亿美元成交额新进榜单第 19 名，下跌 2.39%。成交量约为 20 日均量的 0.92 倍。技术面：股价站上200日均线，但仍在20日、50日均线下方；RSI 37.4，动能偏弱，需警惕放量下跌；当前股价处于 52 周区间中部（52周位置 65%）。",
+   "news": [
+    {
+     "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks",
+     "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html?.tsrc=rss",
+     "published": "07-19 09:00",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Micron, Nvidia, Netflix, SK Hynix, Alphabet, Intuitive Surgical, and More Stocks That Explain Today’s Market",
+     "link": "https://finance.yahoo.com/m/7fa796ea-0940-3e76-942a-7ce5e7ba25b7/micron%2C-nvidia%2C-netflix%2C-sk.html?.tsrc=rss",
+     "published": "07-17 16:29",
+     "publisher": "Yahoo Finance"
+    }
+   ]
+  }
+ ],
+ "trend_picks": [
+  {
+   "ticker": "BAC",
+   "name": "美国银行",
+   "score": 100.0,
+   "price": 61.27,
+   "change_pct": -0.36,
+   "rsi": 68.1,
+   "ret_20d": 8.38,
+   "ret_60d": 15.16,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +2.1%）",
+    "RSI 68.1，强势且未超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +15.2%，中期动能强劲",
+    "近 20 日涨幅 +8.4%",
+    "量能配合（量比 1.2）"
+   ]
+  },
+  {
+   "ticker": "V",
+   "name": "维萨",
+   "score": 95.0,
+   "price": 358.56,
+   "change_pct": -1.8,
+   "rsi": 66.0,
+   "ret_20d": 8.53,
+   "ret_60d": 15.93,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +2.4%）",
+    "RSI 66.0，强势且未超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +15.9%，中期动能强劲",
+    "近 20 日涨幅 +8.5%"
+   ]
+  },
+  {
+   "ticker": "XYZ",
+   "name": "Block",
+   "score": 95.0,
+   "price": 79.94,
+   "change_pct": -1.94,
+   "rsi": 57.1,
+   "ret_20d": 9.75,
+   "ret_60d": 11.41,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +2.8%）",
+    "RSI 57.1，强势且未超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +11.4%，中期动能强劲",
+    "近 20 日涨幅 +9.8%"
+   ]
+  },
+  {
+   "ticker": "CRWD",
+   "name": "CrowdStrike Holdings",
+   "score": 95.0,
+   "price": 203.08,
+   "change_pct": -0.33,
+   "rsi": 66.9,
+   "ret_20d": 18.94,
+   "ret_60d": 80.67,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +4.3%）",
+    "RSI 66.9，强势且未超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +80.7%，中期动能强劲",
+    "近 20 日涨幅 +18.9%"
+   ]
+  },
+  {
+   "ticker": "GS",
+   "name": "高盛",
+   "score": 90.0,
+   "price": 1065.22,
+   "change_pct": -2.76,
+   "rsi": 57.4,
+   "ret_20d": -3.09,
+   "ret_60d": 15.47,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +0.6%）",
+    "RSI 57.4，强势且未超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +15.5%，中期动能强劲"
+   ]
+  },
+  {
+   "ticker": "AAPL",
+   "name": "苹果",
+   "score": 86.0,
+   "price": 333.74,
+   "change_pct": 0.14,
+   "rsi": 88.6,
+   "ret_20d": 12.77,
+   "ret_60d": 25.5,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +2.5%）",
+    "RSI 88.6，强势但接近超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +25.5%，中期动能强劲",
+    "近 20 日涨幅 +12.8%"
+   ]
+  },
+  {
+   "ticker": "SIRI",
+   "name": "Sirius XM Holdings",
+   "score": 86.0,
+   "price": 30.59,
+   "change_pct": -2.02,
+   "rsi": 70.1,
+   "ret_20d": 9.52,
+   "ret_60d": 18.02,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +2.6%）",
+    "RSI 70.1，强势但接近超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +18.0%，中期动能强劲",
+    "近 20 日涨幅 +9.5%"
+   ]
+  },
+  {
+   "ticker": "JPM",
+   "name": "摩根大通",
+   "score": 85.0,
+   "price": 341.1,
+   "change_pct": -0.6,
+   "rsi": 63.4,
+   "ret_20d": 2.75,
+   "ret_60d": 9.47,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +1.5%）",
+    "RSI 63.4，强势且未超买",
+    "MACD 柱状图为正，动能向上",
+    "近 60 日涨幅 +9.5%"
+   ]
+  },
+  {
+   "ticker": "ABBV",
+   "name": "艾伯维",
+   "score": 85.0,
+   "price": 254.49,
+   "change_pct": 0.04,
+   "rsi": 53.5,
+   "ret_20d": 15.85,
+   "ret_60d": 24.95,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +2.8%）",
+    "RSI 53.5，强势且未超买",
+    "近 60 日涨幅 +24.9%，中期动能强劲",
+    "近 20 日涨幅 +15.8%"
+   ]
+  },
+  {
+   "ticker": "SNOW",
+   "name": "Snowflake",
+   "score": 85.0,
+   "price": 268.9,
+   "change_pct": -0.41,
+   "rsi": 69.5,
+   "ret_20d": 14.66,
+   "ret_60d": 78.27,
+   "reasons": [
+    "股价位于 20 日均线上方",
+    "20 日均线上穿 50 日均线（多头排列）",
+    "50 日均线位于 200 日均线上方（长期趋势向上）",
+    "20 日均线持续上行（5日斜率 +3.4%）",
+    "RSI 69.5，强势且未超买",
+    "近 60 日涨幅 +78.3%，中期动能强劲",
+    "近 20 日涨幅 +14.7%"
+   ]
+  }
+ ],
+ "news": [
+  {
+   "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
+   "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+   "published": "07-19 20:16",
+   "summary": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+   "link": "https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories",
+   "published": "07-19 18:29",
+   "summary": "“It doesn’t make a difference who wins the game. The IRS will get a piece.”",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+   "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+   "published": "07-19 15:06",
+   "summary": "Apple, Amazon, Nvidia and peers are quietly coming back to life, and that could easily jolt this sleepy stock market back into gear.",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+   "link": "https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories",
+   "published": "07-19 11:43",
+   "summary": "Some children who don’t qualify for the government contribution may be eligible for an initial $250.",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
+   "link": "https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories",
+   "published": "07-19 10:45",
+   "summary": "There are two main ways to move money from your workplace retirement plan when you leave your job. One can cost you.",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+   "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+   "published": "07-19 08:30",
+   "summary": "“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "Kalshi adds 3 million new users as prediction market capitalizes on the World Cup",
+   "link": "https://www.cnbc.com/2026/07/19/kalshi-adds-3-million-new-users-as-company-capitalizes-on-world-cup.html",
+   "published": "07-19 08:42",
+   "summary": "The prediction market has launched some ads featuring soccer players, as well as formed a partnership to display its brand in more places during the t",
+   "source": "CNBC"
+  },
+  {
+   "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+   "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+   "published": "07-18 14:16",
+   "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+   "source": "CNBC"
+  },
+  {
+   "title": "India's biggest IPO this year rakes in bids worth $31 billion, powered by institutional frenzy",
+   "link": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html",
+   "published": "07-16 23:54",
+   "summary": "The IPO of India's largest asset manager closed on Thursday, drawing keen interest from institutional investors.",
+   "source": "CNBC"
+  },
+  {
+   "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
+   "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
+   "published": "07-16 14:50",
+   "summary": "The policymaker said this week's good inflation news wasn't good enough.",
+   "source": "CNBC"
+  },
+  {
+   "title": "Short sellers load up against SpaceX as stock drops below IPO price",
+   "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
+   "published": "07-16 14:12",
+   "summary": "About 185 million SpaceX shares are now sold short, representing roughly 29% of the company's publicly tradable float, according to S3.",
+   "source": "CNBC"
+  },
+  {
+   "title": "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
+   "link": "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+   "published": "07-16 12:36",
+   "summary": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.",
+   "source": "CNBC"
+  }
+ ],
+ "disclaimer": "本工具仅供学习研究，不构成投资建议。数据来源于公开渠道，可能存在延迟或错误。"
+}
